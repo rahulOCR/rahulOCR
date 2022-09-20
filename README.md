@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi! I am Rahul Yadav
+  Hey, I am Rahul Yadav
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <br>
@@ -19,7 +19,7 @@
 <li> I’m currently Developing cool Aerial robots, autonomous indoor navigation and AI assistant Drones♦️</li>
 <li> I’m currently learning about Cyber-Security and Embedded Systems🧩</li>
 <li> I’m looking to collaborate with any Robotics related projects🧩</li>
-<li> Finalist at Smart India Hackathon 219 Hardware Edition </li>
+<li> Finalist at Smart India Hackathon 2019 Hardware Edition </li>
 <li> Successfully filed Patent (IN 202011026692 · Issued Aug 7, 2020)🖖</li>
  
 </ul>
