@@ -36,7 +36,20 @@
   <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-430098?style=for-the-badge&logo=scipy&logoColor=black"></a>
-  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <a href="#"><img alt="ARM-Linux" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
+  
+ 
+</p>
+
+<h1>Operating System</h1>
+
+
+<p> 
+ <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+ <a href="#"><img alt="Arch_Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+  <a href="#"><img alt="Freebsd" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white"></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=black"></a>
  
 </p>
 
@@ -46,11 +59,13 @@
  
  <p>
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=rahulOCR&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
-    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=snktshrma&theme=github-dark&border=FEFEFE">
+    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulOCR&theme=github-dark&border=FEFEFE">
 
+   
+  
 </p>
 
-
+<img align="middle" alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulOCR&theme=blue-green">
  
 
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
