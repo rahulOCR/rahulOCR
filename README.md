@@ -34,7 +34,7 @@
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
  <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-1572B6?style=for-the-badge&logo=ros&logoColor=white"></a>
   <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F38020?style=for-the-badge&logo=pytorch&logoColor=black"></a>
+  <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-430098?style=for-the-badge&logo=scipy&logoColor=black"></a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
  
