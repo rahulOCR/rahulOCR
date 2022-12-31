@@ -51,7 +51,6 @@
 </p>
 
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulOCR&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
  
 
 <h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
